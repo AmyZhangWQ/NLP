@@ -1,3 +1,5 @@
+Codes here are my customized code based on the orginal Lab materials. for original materials, see below info.
+
 ### 任务二：基于深度学习的文本分类
 
 熟悉Pytorch，用Pytorch重写《任务一》，实现CNN、RNN的文本分类；
